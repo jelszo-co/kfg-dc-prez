@@ -1,0 +1,53 @@
+{
+	"steps": [
+		{
+			"title": "Bevezetés",
+			"text": "Weboldalunk segítséget nyújt a Discord használatba való belelendülésbe."
+		},
+		{
+			"title": "Weboldal megnyitása",
+			"text": "Navigáljunk el a <a href='https://discordapp.com'>discordapp.com</a>-ra."
+		},
+		{
+			"title": "Regisztráció indítása",
+			"text": "Kattintsunk az 'open Discord in your browser' gombra.",
+			"img": "img/sh1.png"
+		},
+		{
+			"title": "Felhasználónév megadása",
+			"text": "Adjunk meg egy egyedi felhasználónevet, majd pipáljuk be az ÁSZF-t.",
+			"img": "img/sh2.png"
+		},
+		{
+			"title": "Fölösleges bemutató kihagyása",
+			"text": "A 'skip' gombra kattintva átugorhatjuk az alap bemutatót.",
+			"img": "img/sh3.png"
+		},
+		{
+			"title": "Adatok megadása",
+			"text": "Már csak egy email cím és egy jelszó megadása választ el a kész fióktól.",
+			"img": "img/sh4.png"
+		},
+		{
+			"title": "Kész a fiók",
+			"text": "Az email cím ellenőrzésére figyelmeztető ablakot bezárva már használható is a fiók.",
+			"img": "img/sh5.png"
+		},
+		{
+			"title": "Csatlakozás a szerverhez",
+			"text": "A következőkben csatlakozni fogunk az osztály saját szerveréhez."
+		},
+		{
+			"title": "Link megnyitása",
+			"text": "Nyissuk meg a következő linket: <a href='https://discord.jelszo.co/invite'> discord.jelszo.co/invite </a> "
+		},
+		{
+			"title": "Bejelentkezés",
+			"text": "Kattintsunk a Már van fiókod? gombra, majd a következő ablakban jelentkezzünk be az előbbi adatokkal."
+		},
+		{
+			"title": "Kész!",
+			"text": "Készen is volnánk, bent vagyunk a szerveren! A bal oldalon találhatjuk a szobákat, jobb oldalon pedig a szerver tagokat. Ha valamiben elakadtál, a SEGÍTŐK közül bárki szívesen segít neked aki épp online."
+		}
+	]
+}
