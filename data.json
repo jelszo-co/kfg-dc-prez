@@ -43,11 +43,21 @@
 		},
 		{
 			"title": "Bejelentkezés",
-			"text": "Kattintsunk a Már van fiókod? gombra, majd a következő ablakban jelentkezzünk be az előbbi adatokkal."
+			"text": "Kattintsunk a Már van fiókod? gombra, majd a következő ablakban jelentkezzünk be az előbbi adatokkal.",
+			"img": "img/sh6.png"
 		},
 		{
 			"title": "Kész!",
-			"text": "Készen is volnánk, bent vagyunk a szerveren! A bal oldalon találhatjuk a szobákat, jobb oldalon pedig a szerver tagokat. Ha valamiben elakadtál, a SEGÍTŐK közül bárki szívesen segít neked aki épp online."
+			"text": "Készen is volnánk, bent vagyunk a szerveren!"
+		},
+		{
+			"title": "Navigáció",
+			"text": "A bal oldalon találhatjuk a szobákat, jobb oldalon pedig a szerver tagokat.",
+			"img": "img/sh7.png"
+		},
+		{
+			"title": "Segítség",
+			"text": "Ha valamiben elakadtál, a SEGÍTŐK közül bárki szívesen segít neked aki épp online."
 		}
 	]
 }

@@ -13,8 +13,8 @@ body {
 		rgba(255, 181, 0, 1) 100%
 	);
 	overflow: hidden;
-	background-size: cover;
-	background-repeat: no-repeat;
+	background-size: contain;
+	background-repeat: repeat;
 	@media #{$resp-mobile} {
 		height: 100vh;
 	}
@@ -95,6 +95,9 @@ body {
 		color: rgba(139, 36, 0, 1);
 		vertical-align: center;
 	}
+	@media #{$resp-mobile} {
+		bottom: 25%;
+	}
 }
 
 #prez {
@@ -165,11 +168,12 @@ body {
 			transform: translate(-50%, -50%);
 			top: 50%;
 			vertical-align: middle;
-			width: 95%;
+			width: 100%;
 		}
 	}
 	.text-img {
 		top: 80%;
+		width: 90%;
 		@media #{$resp-mobile} {
 			top: 75%;
 			font-size: 1.3rem;
@@ -206,5 +210,16 @@ body {
 				transform: scale(1.2);
 			}
 		}
+	}
+}
+
+#watermark {
+	position: absolute;
+	bottom: 1%;
+	right: 1%;
+	text-align: right;
+	font-weight: 400;
+	@media #{$resp-mobile} {
+		font-size: 0.8rem;
 	}
 }
