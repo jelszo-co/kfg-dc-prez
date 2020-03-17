@@ -6,7 +6,7 @@
 		},
 		{
 			"title": "Weboldal megnyitása",
-			"text": "Navigáljunk el a <a href='https://discordapp.com'>discordapp.com</a>-ra."
+			"text": "Navigáljunk el a <a targer='_blank' href='https://discordapp.com'>discordapp.com</a>-ra."
 		},
 		{
 			"title": "Regisztráció indítása",
@@ -39,7 +39,7 @@
 		},
 		{
 			"title": "Link megnyitása",
-			"text": "Nyissuk meg a következő linket: <a href='https://discord.jelszo.co/invite'> discord.jelszo.co/invite </a> "
+			"text": "Nyissuk meg a következő linket: <a target='_blank' href='https://discord.jelszo.co/invite'> discord.jelszo.co/invite </a> "
 		},
 		{
 			"title": "Bejelentkezés",
