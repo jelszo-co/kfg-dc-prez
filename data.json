@@ -6,7 +6,7 @@
 		},
 		{
 			"title": "Weboldal megnyitása",
-			"text": "Navigáljunk el a <a targer='_blank' href='https://discordapp.com'>discordapp.com</a>-ra."
+			"text": "Navigáljunk el a <a target='_blank' href='https://discordapp.com'>discordapp.com</a>-ra."
 		},
 		{
 			"title": "Regisztráció indítása",
